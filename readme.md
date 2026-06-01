@@ -37,3 +37,5 @@ Robotics project where I designed and built a 3-DOF robot, with trajectory desig
 One of the best projects in which I have participated during my degree. A robotic crane used for pick and place operations for three types of boxes, with machine vision, sensors and steppers for movement and positioning control, and user interface for control and stock verification.
 
 [View Repository](https://github.com/Diegomurillo6/Grua-Pick-and-Place)
+
+I hope to add more projects soon, as I complete some ongoing work this semester and revisit projects I developed or contributed to in the past.
