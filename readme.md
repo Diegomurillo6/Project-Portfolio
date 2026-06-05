@@ -7,7 +7,7 @@ Portfolio of engineering projects covering automation, robotics, embedded system
 
 ### Experimental physics, engineering, and research at Plasma Laboratory in TEC
 
-https://github.com/Diegomurillo6/PlasmaLabWork
+[View Repository](https://github.com/Diegomurillo6/PlasmaLabWork)
 
 ### PLC Automation FESTO training Plant
 Industrial automation project involting PLC, programming, process control, and industril communication
